@@ -1,8 +1,0 @@
-This dataset is proprietary to the University School for Advanced Studies IUSS Pavia, Italy.
-Data collection was conducted by the research team of the Laboratory of Neurolinguistics and Experimental Pragmatics (NEPLab) within the project “PROcessing MEtaphors: Neurochronometry, Acquisition and DEcay (PROMENADE)”, ERC CONSOLIDATOR GRANT: Grant agreement ID: 101045733 (principal investigator: Prof. Valentina Bambini).
-Data and script usage is restricted to academic and non-commercial research upon appropriate attribution. 
-
-The dataset includes EEG data (pre-processed and epoched) acquired during a picture-matching task, with EEG recording time-locked to the presentation of pictures preceded by pictorial, imagery-generated, and verbal (literal and non-literal sentences) cues.
-
-Please, check the README.md file for further information concerning the study design and the content of the dataset. 
-For inquiries, contact: Dr. Federico Frau (federico.frau@iusspavia.it) and Dr. Paolo Canal (paolo.canal@iusspavia.it).
